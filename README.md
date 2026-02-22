@@ -1,2 +1,1 @@
-[# -Car-Pricing-Data-Analysis-Excel
-Car Pricing Data Analysis project using Power BI based on 97 records from 2014–2015. The dataset includes selling price, MMR price, mileage, transmission, body type, and condition. KPIs and interactive dashboards ](https://github.com/yourusername/Car-Pricing-Data-Analysis-Excel)were created to analyze price trends, depreciation, and segment performance for better pricing and inventory decisions.
+af8a6d37a4a6d5469618e968abd8977217ee6d23(https://github.com/yourusername/Car-Pricing-Data-Analysis-Excel)were created to analyze price trends, depreciation, and segment performance for better pricing and inventory decisions.
